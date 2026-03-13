@@ -12,6 +12,7 @@
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - 刘洋
   <!-- TOML-ITEM: id="review-刘洋-1" -->
   - 上课风格活跃（奈何课程枯燥乏味）。

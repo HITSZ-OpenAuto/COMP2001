@@ -1,28 +1,28 @@
 course_name = "计算机专业导论"
-repo_type = "normal"
 course_code = "COMP2001"
-
+repo_type = "normal"
 description = """
 曾经 COMP2001 计算机专业导论为考试课，2 学分。
 24 级开设 CAEC 计算机与电子通信集群专业导论，25 级开设 COMP1013 计算机专业导论。
 24 级和 25 级内容较 22 级以前均有大幅删减。
 """
 
-[[lecturers]]
+[lecturers]
+
+[[lecturers.items]]
 name = "刘洋"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "上课风格活跃（奈何课程枯燥乏味）。"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "丁宇新"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 PPT 的话比较硬核，都是一些核心知识。书本知识排版很差，没有必要看书本。
 上课若能跟上老师节奏，不妨听课；但跟不上的话就没有必要了。课前发 PPT。
 """
-
 
 [[sections]]
 title = "在线资源"
