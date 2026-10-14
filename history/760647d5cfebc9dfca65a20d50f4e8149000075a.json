@@ -1,0 +1,72 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1764302508,
+    "hash": "0a5f7fa500ea5141559d96121d86730b373dbef6"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1764302508,
+    "hash": "0a5f7fa500ea5141559d96121d86730b373dbef6"
+  },
+  "README.md": {
+    "size": 1880,
+    "time": 1791961650,
+    "hash": "760647d5cfebc9dfca65a20d50f4e8149000075a"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1764302508,
+    "hash": "0a5f7fa500ea5141559d96121d86730b373dbef6"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1764302508,
+    "hash": "0a5f7fa500ea5141559d96121d86730b373dbef6"
+  },
+  "exams/哈工大（深圳）2021级计导期末试题（回忆版）.pdf": {
+    "size": 515885,
+    "time": 1764303234,
+    "hash": "c1fd4cca284ad1c04c7ff93b53f76ce92344db3e"
+  },
+  "exams/哈工大（深圳）2022级计导期末模拟参考答案.pdf": {
+    "size": 329771,
+    "time": 1764303234,
+    "hash": "c1fd4cca284ad1c04c7ff93b53f76ce92344db3e"
+  },
+  "exams/哈工大（深圳）2022级计导期末模拟试题.pdf": {
+    "size": 538329,
+    "time": 1764303234,
+    "hash": "c1fd4cca284ad1c04c7ff93b53f76ce92344db3e"
+  },
+  "exams/大学计算机速查用题库 战德臣授权.pdf": {
+    "size": 4850217,
+    "time": 1764303234,
+    "hash": "c1fd4cca284ad1c04c7ff93b53f76ce92344db3e"
+  },
+  "exams/本部题库.pdf": {
+    "size": 5278523,
+    "time": 1764303234,
+    "hash": "c1fd4cca284ad1c04c7ff93b53f76ce92344db3e"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1764302508,
+    "hash": "0a5f7fa500ea5141559d96121d86730b373dbef6"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1764302508,
+    "hash": "0a5f7fa500ea5141559d96121d86730b373dbef6"
+  },
+  "readme.toml": {
+    "size": 1928,
+    "time": 1775738823,
+    "hash": "6942a7cb9abd7fc23f121cfd824f2a32a7a5aa27"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1764302508,
+    "hash": "0a5f7fa500ea5141559d96121d86730b373dbef6"
+  }
+}
